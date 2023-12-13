@@ -1,0 +1,19 @@
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1{
+    color: #7c0000;
+}
+
+footer{
+    display: flex;
+    align-items: end;
+    justify-content: center;
+    
+    height: 334px;
+
+    opacity: 0.5;
+}
